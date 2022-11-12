@@ -1,7 +1,7 @@
 {
 	"name": "MR.NAYAN BOT",
 	"version": "11.9.7",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"description": "A simple Facebook Messenger Bot made by MR.NAYAN AND MY TEAM.",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
