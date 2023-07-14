@@ -2,7 +2,7 @@
 	"name": "Mohammad Nayan",
 	"version": "1.0.6",
 	"description": "A simple Facebook Messenger Bot By MOHAMMAD NAYAN",
-	"main": "ZiaRein.js",
+	"main": "NAYAN.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
